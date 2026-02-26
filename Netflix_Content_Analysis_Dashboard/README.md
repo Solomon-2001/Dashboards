@@ -44,3 +44,45 @@ This project aims to:
 ---
 
 ## 📂 Project Structure
+Netflix-Content-Analysis/
+│
+├── data/
+│   └── netflix_titles.csv
+│
+├── dashboards/
+│   └── Netflix Content Analysis Dashboard.twbx
+│
+├── images/
+│   └── netflix-dashboard.png
+│
+└── README.md
+---
+
+## 💼 Business Value
+
+This dashboard demonstrates how streaming platforms can:
+
+- Track content growth trends over time
+- Identify dominant production markets
+- Analyse genre investment distribution
+- Understand runtime patterns for content strategy decisions
+
+---
+
+## 📌 Dataset
+
+The dataset contains information on Netflix titles including:
+
+- Title
+- Type (Movie / TV Show)
+- Genre
+- Country
+- Duration
+- Date Added
+- Release Year
+
+---
+
+## 👤 Author
+
+Solomon Ebrahimoff  
