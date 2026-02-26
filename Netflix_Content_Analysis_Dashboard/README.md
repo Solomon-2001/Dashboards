@@ -7,12 +7,6 @@ https://public.tableau.com/views/NetflixContentAnalysisDashboard_17715108975870/
 
 ---
 
-## 📊 Dashboard Preview
-
-![Netflix Dashboard Preview](images/Netflix-Content-Dashboard.png)
-
----
-
 ## 🎯 Project Objectives
 
 This project aims to:
@@ -48,6 +42,7 @@ Netflix-Content-Analysis/
 │
 ├── data/
 │   └── netflix_titles.csv
+│   └── netflix_titles.xlsx
 │
 ├── dashboards/
 │   └── Netflix Content Analysis Dashboard.twbx
