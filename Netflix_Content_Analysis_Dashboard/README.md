@@ -37,22 +37,6 @@ This project aims to:
 
 ---
 
-## 📂 Project Structure
-Netflix-Content-Analysis/
-│
-├── data/
-│   └── netflix_titles.csv
-│   └── netflix_titles.xlsx
-│
-├── dashboards/
-│   └── Netflix Content Analysis Dashboard.twbx
-│
-├── images/
-│   └── netflix-dashboard.png
-│
-└── README.md
----
-
 ## 💼 Business Value
 
 This dashboard demonstrates how streaming platforms can:
